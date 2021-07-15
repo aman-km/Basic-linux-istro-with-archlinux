@@ -1,0 +1,17 @@
+hey, every one 
+
+lets talk about setting the project up.
+
+first setup arch linux (not covered here)
+
+then after opening give the command 
+
+sudo pacman -Syv
+
+then give 
+
+sudo pacman -S wget pacman-contrib
+
+then
+
+wget archfi.sf.net/archfi
